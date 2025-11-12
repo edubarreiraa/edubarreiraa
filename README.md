@@ -2,6 +2,7 @@
 
 - 🔭 Aprendiz na Votorantim Cimentos
 - 🌱 Cursando Análise e desenvolvimento de sistemas
+- 📌 Estudando JS e lógica de programação
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edubarreiraa&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edubarreiraa&stats&theme=dark)
